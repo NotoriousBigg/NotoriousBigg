@@ -7,20 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/coolli_o" target="blank"><img src="https://img.shields.io/twitter/follow/coolli_o?logo=twitter&style=for-the-badge" alt="coolli_o" /></a> </p>
 
-- 🌱 I’m currently learning **Python, MySql, PhP**
+- 🌱 I’m currently learning **Python and GoLang**
 
-- 👨‍💻 All of my projects are available at [www.kresswell.wav.haus](www.kresswell.wav.haus)
+- 👨‍💻 All of my projects are available on [My PortFolio](https://www.infinityhackers.tech)
 
-- 📝 I regularly write articles on [www.infinityhackers.tech](www.infinityhackers.tech)
+- 📝 I regularly write articles on [Tynix Tech](https://www.tynix.tech)
 
-- 📫 How to reach me **help@infinityhackers.com**
+- 📫 How to reach me **help@infinityhackers.com or kresswell@tynix.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/muiruri42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muiruri42" height="30" width="40" /></a>
-<a href="https://twitter.com/coolli_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coolli_o" height="30" width="40" /></a>
+<a href="https://twitter.com/BabyGangstarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BabyGangstarr" height="30" width="40" /></a>
 <a href="https://instagram.com/kresswell0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kresswell0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/infinityhackerske" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinityhackerske" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/infinitytechhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinitytechhub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muiruri0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muiruri0" height="30" width="40" /></a>
 </p>
 
