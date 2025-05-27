@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notoriousbigg&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousbigg" /> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NotoriousBigg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NotoriousBigg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -18,19 +15,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotoriousBigg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotoriousBigg&theme=dark" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotoriousBigg&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotoriousBigg&layout=compact&theme=dark"/>
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NotoriousBigg&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 
 
-profile views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=111morris&label=Profile%20views&color=0e75b6&style=flat" alt="NotoriousBigg" /> </p>
-
-<div align="right">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=NotoriousBigg&theme=codeSTACKr&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api?username=NotoriousBigg&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotoriousBigg&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
-</div>
 
 ## 🌐 Connect with me:
 
