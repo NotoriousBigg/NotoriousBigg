@@ -9,7 +9,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NotoriousBigg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left"> <a href="https://twitter.com/_kresswell" target="blank"><img src="https://img.shields.io/twitter/follow/babygangstarr?logo=twitter&style=for-the-badge" alt="_kresswell" /></a> </p>
 
 
 ###
