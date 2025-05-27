@@ -3,9 +3,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notoriousbigg&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousbigg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notoriousbigg" alt="notoriousbigg" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NotoriousBigg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NotoriousBigg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="left"> <a href="https://twitter.com/_kresswell" target="blank"><img src="https://img.shields.io/twitter/follow/babygangstarr?logo=twitter&style=for-the-badge" alt="_kresswell" /></a> </p>
+
+
+###
+<!--
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotoriousBigg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotoriousBigg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+-->
+# 📊 GitHub Stats:
+
+<!--
+profile views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=111morris&label=Profile%20views&color=0e75b6&style=flat" alt="NotoriousBigg" /> </p>-->
+
+<div align="right">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=NotoriousBigg&theme=codeSTACKr&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=NotoriousBigg&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotoriousBigg&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
