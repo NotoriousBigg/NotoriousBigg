@@ -3,8 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notoriousbigg&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousbigg" /> </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NotoriousBigg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/NandhaxD/VegetaRobot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nandhaxd&repo=VegetaRobot&theme=dark" />
+  </a>
+</p>
 
 
 
@@ -49,4 +55,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kresswell"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kresswell" /></a></p><br><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NotoriousBigg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<h3 align="center">💫 Thank you for visiting my profile! 💫</h3>
 
