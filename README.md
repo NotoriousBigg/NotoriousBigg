@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotoriousBigg&theme=dark" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=notoriousbigg&theme=highcontrast&background=45%2C12EB28%2C0753EB" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
