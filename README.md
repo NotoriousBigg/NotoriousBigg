@@ -1,7 +1,8 @@
-
+<div align="center">
 <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=KRESSWELL&l0=0c0d0d&l1=49fb09&l2=00f53d&l3=00ff44&l4=04fb52&bg=100f0f&frame=f50505&comment=You%20can%20run,%20But%20you%20cannot%20hide" align="center">
 </a>
+</div>
 
 
 <h2 align="center"> ☠️🏴‍☠️ About Me – The One Piece Edition 🏴‍☠️☠️ </h2>
