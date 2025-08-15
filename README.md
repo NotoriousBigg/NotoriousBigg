@@ -2,10 +2,33 @@
 <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=KRESSWELL&l0=0c0d0d&l1=49fb09&l2=00f53d&l3=00ff44&l4=04fb52&bg=100f0f&frame=f50505&comment=You%20can%20run,%20But%20you%20cannot%20hide">
     </a>
-<h1 align="center">Hi 👋, I'm Muiruri</h1>
-<h3 align="center">A passionate Fullstack Developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notoriousbigg&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousbigg" /> </p>
+
+<h2 align="center"> ☠️🏴‍☠️ About Me – The One Piece Edition 🏴‍☠️☠️ </h2>
+
+```zsh
+mugiwara@sunny-go: ~/grand_line (main⚡)$ neofetch
+```
+<img align="left" src="https://cdn.shrx.pw/uploads/2025/08/15/62ba8614e0354242ae0ee65b66006322.jpg" width="279px"/>
+
+```csharp
+Profile ver. 1.0.0: 「A rogue coder sailing the digital seas, chasing treasures of automation, APIs, and freedom.」
+--------------------------------------------------------------------------------------------------------------
+Pirate Name: "Kress D. Well" (Captain of the Backend Buccaneers)
+Bounty: 320,000,000 ฿erries
+Role: Backend Engineer / Automation Specialist / API Smuggler
+OS: Linux Mint (Custom rig) ⚙️
+Shell: zsh 5.9
+Telegram: @RealOptimusPrimeBot (also seen in shady ports ⛵)
+Fav.Anime: ワンピース (One Piece) 🏴‍☠️, plus a stash of good shounen and anime classics 📜
+Loves: Freedom >= Happiness, building bots 🤖, clever scrapers 🕵️, databases 📂
+Location: Sailing between East Blue & the Dark Web Sea 🌊
+Languages: Python 🐍, Go
+Specialties: Telegram Bots, API Development, Database Systems, Automation Pipelines
+Crew Motto: "If it can be automated, it will be."
+Hobbies: Coding for gold 💰, tinkering with new tools 🛠️, anime marathons 🍜
+
+```
 
 ### 📌 Featured Projects
 
