@@ -45,10 +45,10 @@ Hobbies: Coding for gold 💰, tinkering with new tools 🛠️, anime marathons
 
 ### Try Hack Me
 <p align="center">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/kresswell.png" alt="Your Image Badge" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/kresswell.png" alt="Your Image Badge"/>
 </p>
-### 📊 GitHub Stats
 
+### 📊 GitHub Stats
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=notoriousbigg&theme=highcontrast&background=45%2C12EB28%2C0753EB" alt="GitHub Streak" /></a>
 </p>
