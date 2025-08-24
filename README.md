@@ -45,7 +45,7 @@ Hobbies: Coding for gold 💰, tinkering with new tools 🛠️, anime marathons
 
 ### Try Hack Me
 <p align="center">
-        <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5527497" style='border:none;'></iframe>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/kresswell.png" alt="Your Image Badge" />
 </p>
 ### 📊 GitHub Stats
 
