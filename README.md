@@ -43,7 +43,10 @@ Hobbies: Coding for gold 💰, tinkering with new tools 🛠️, anime marathons
 </p>
 
 
-
+### Try Hack Me
+<p align="center">
+        <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5527497" style='border:none;'></iframe>
+</p>
 ### 📊 GitHub Stats
 
 <p align="center">
