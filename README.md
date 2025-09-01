@@ -10,7 +10,7 @@
 ```zsh
 mugiwara@sunny-go: ~/grand_line (main⚡)$ neofetch
 ```
-<img align="left" src="https://cdn.shrx.pw/uploads/2025/08/15/62ba8614e0354242ae0ee65b66006322.jpg" width="279px"/>
+<img align="left" src="https://cdn.myrx.pw/uploads/2025/08/15/62ba8614e0354242ae0ee65b66006322.jpg" width="279px"/>
 
 ```csharp
 Profile ver. 1.0.0: 「A rogue coder sailing the digital seas, chasing treasures of automation, APIs, and freedom.」
