@@ -20,7 +20,7 @@ Bounty: 320,000,000 ฿erries
 Pronouns: Robot
 Location: Planet Cybertron
 Role: Backend Engineer / Automation Specialist / API Smuggler
-OS: Linux Mint (Custom rig) ⚙️
+OS: Fedora 42 (Custom rig) ⚙️
 Shell: zsh 5.9
 Telegram: @RealOptimusPrimeBot (also seen in shady ports ⛵)
 Fav.Anime: ワンピース (One Piece) 🏴‍☠️, plus a stash of good shounen and anime classics 📜
