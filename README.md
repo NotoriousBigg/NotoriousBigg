@@ -9,8 +9,8 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/NotoriousBigg/StringSessionGenerator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotoriousBigg&repo=StringSessionGenerator&theme=dark" />
+  <a href="https://github.com/NotoriousBigg/NotoriousBigg/ai-web-scraper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotoriousBigg&repo=ai-web-scraper&theme=dark" />
   </a>
 </p>
 
