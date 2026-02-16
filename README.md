@@ -10,10 +10,9 @@
 </a>
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotoriousBigg&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotoriousBigg&layout=compact&theme=dark"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NotoriousBigg&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NotoriousBigg&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NotoriousBigg&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 <p align="center">
