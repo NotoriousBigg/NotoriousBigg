@@ -4,20 +4,11 @@
 </a>
 </div>
 
-### Now Playing(Youtube Music Via Last.Fm
+### Now Playing(Youtube Music Via Last.Fm)
 <a href="https://last.fm/user/kresswell">
         <img align="center" src="https://nowplaying-one.vercel.app/api/nowplaying/image"/>
 </a>
 
-
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/NotoriousBigg/NotoriousBigg/ai-web-scraper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotoriousBigg&repo=ai-web-scraper&theme=dark" />
-  </a>
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotoriousBigg&show_icons=true&theme=dark"/>
