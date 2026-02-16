@@ -4,6 +4,11 @@
 </a>
 </div>
 
+### Now Playing(Youtube Music Via Last.Fm
+<a href="https://last.fm/user/kresswell">
+        <img align="center" src="https://nowplaying-one.vercel.app/api/nowplaying/image"/>
+</a>
+
 
 
 ### 📌 Featured Projects
