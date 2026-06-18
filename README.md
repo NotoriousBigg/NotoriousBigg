@@ -8,7 +8,7 @@
 <h3 align="center">🎧 Now Playing</h3>
 <div align="center">
   <a href="https://last.fm/user/kresswell">
-    <img src="https://nowplaying-one.vercel.app/api/nowplaying/image" width="500" alt="Now Playing" />
+    <img src="https://nowplaying.kresswell.me/api/nowplaying/image" width="500" alt="Now Playing" />
   </a>
 </div>
 
